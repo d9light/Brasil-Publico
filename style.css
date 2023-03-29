@@ -1,0 +1,65 @@
+.border{
+    width:1200px;
+    height:120;
+    border:solid 1px;
+
+  }
+
+.lado{
+  
+    display: inline-block;
+    height: 50px;
+    width: 115px;
+
+  }
+  .turma{
+     display: inline-block;
+    
+    }
+
+ .textoturma{
+
+  position: absolute;
+  left:50%;
+  top:50%;
+  margin-left:-117px;
+  margin-top:-95px;
+
+ }
+
+.body{
+
+font-family:Arial, Helvetica, sans-serif;
+
+}
+.livro{
+
+width: 200px;
+height: 200px;
+
+position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:250px;
+		margin-top:-50px;
+
+}
+.textoestado{
+
+  position: absolute;
+  left:50%;
+  top:50%;
+  margin-left:-125px;
+  margin-top: 134px;
+
+ }
+
+ .estadoluga{
+
+  position: absolute;
+  left:50%;
+  top:50%;
+  margin-left:-30px;
+  margin-top: 134px;
+
+ }
